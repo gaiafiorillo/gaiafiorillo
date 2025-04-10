@@ -1,4 +1,6 @@
-[github-header-image](https://github.com/user-attachments/assets/6f338878-6aa0-40b1-901d-b1adcf38a604)
+![Header](./github-header-image.png)
+
+
 
 
 -👋 Hi, I’m @gaiafiorillo
