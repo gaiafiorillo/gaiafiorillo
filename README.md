@@ -6,7 +6,7 @@
 
 -💞️ I’m looking to collaborate on **Web development projects**,**open source projects** and  **app development**. Feel free to reach out if you’re interested in collaborating and create something together!
 
--📫 How to reach me: You can find me on **LinkedIn** [Gaia Fiorillo]([https://www.linkedin.com/in/gaiafiorillo](https://www.linkedin.com/in/gaia-fiorillo-611884279/)) or reach out to me via email at **gaiafiorillo06@gmail.com**.
+-📫 How to reach me: You can find me on **LinkedIn** [Gaia Fiorillo]([https://www.linkedin.com/in/gaia-fiorillo-611884279/]) or reach out to me via email at **gaiafiorillo06@gmail.com**.
 
 -😄 Pronouns: **She/Her**
 
