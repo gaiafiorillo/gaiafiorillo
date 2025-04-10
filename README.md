@@ -1,3 +1,6 @@
+![Header]![github-header-image](https://github.com/user-attachments/assets/6f338878-6aa0-40b1-901d-b1adcf38a604)
+
+
 -👋 Hi, I’m @gaiafiorillo
 
 -👀 I’m interested in **software development**, **app design**, **machine learning**, and more! I'm passionate about creating solutions that make life easier for users and impact industries in meaningful ways
