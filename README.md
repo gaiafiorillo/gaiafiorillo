@@ -1,150 +1,181 @@
-### <div align="center">
--👋 Hi, I’m @gaiafiorillo
-
--👀 I’m interested in **Open source developent**, **cybersecurity**, **web development**, and more! I'm passionate about creating solutions that make life easier for users and impact industries in meaningful ways
-
--🌱 Working primarily in **Linux-based environments**, with a focus on **secure system design**, **cloud applications**, and **modern development practices**
-
-
--💞️ I’m looking to collaborate on **long term development**,**open source tools**, **embedded/Arduino projects**, and more. Feel free to reach out if you’re interested in collaborating and create something together!
-
--📫 How to reach me: You can find me on **LinkedIn** [Gaia Fiorillo](https://www.linkedin.com/in/gaia-fiorillo-611884279/) or reach out to me via email at **gaiafiorillo06@gmail.com**.
-
--😄 Pronouns: **She/Her**
-
-⚡ Fun fact: I have developed several video games!</div>  
-  
-
-<br/>  
-
-
-## My Skill Set  
-
 <div align="center">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-</a>
-<a href="https://www.linux.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-</a>
-<a href="https://flutter.dev/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
-</a>
-<a href="https://www.arduino.cc/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
-</a>
-<a href="https://www.figma.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-</a>
-<a href="https://developer.apple.com/swift/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />
-</a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-</a>
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
-</a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-</a>
-<a href="https://www.blender.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />
-</a>
-<a href="https://wordpress.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
-</a>
-<a href="https://www.java.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-</a>
-<a href="https://nodejs.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-</a>
-<a href="https://github.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-</a>
-<a href="https://www.php.net/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-</a>
-<a href="https://unity.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-</a>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
-</a>
-<a href="https://www.raspberrypi.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />
-</a>
-<a href="https://jquery.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-</a>
-<a href="https://nextjs.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-</a>
-<a href="https://www.python.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-</a>
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-</a>
-</div>
 
+<img src="banner.gif" width="100%" alt="Gaia Fiorillo, pentester and full-stack dev" />
 
-## Connect with me  
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=FF4FA3&center=true&vCenter=true&width=800&height=40&lines=penetration+tester;full-stack+developer;secure+system+design;cs+student" alt="typing" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Penetration_Tester-We--Dev-ff4fa3?style=for-the-badge&labelColor=0d0d0d&logo=hackthebox&logoColor=ff4fa3" />
+<img src="https://img.shields.io/badge/Full--Stack-Dev-ff4fa3?style=for-the-badge&labelColor=0d0d0d&logo=nextdotjs&logoColor=ff4fa3" />
+<img src="https://img.shields.io/badge/Linux-native-ff4fa3?style=for-the-badge&labelColor=0d0d0d&logo=linux&logoColor=ff4fa3" />
+<img src="https://img.shields.io/badge/Open-Source-ff4fa3?style=for-the-badge&labelColor=0d0d0d&logo=opensourceinitiative&logoColor=ff4fa3" />
+
+<br/><br/>
+
+<img src="divider.png" width="360" alt="" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%E2%9C%A7_base-Linux-ff4fa3?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/%E2%9C%A7_focus-secure_web_dev-ff4fa3?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/%E2%9C%A7_role-pentester_%2B_full--stack-ff4fa3?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/%E2%9C%A7_studying-Computer_Science-ff4fa3?style=flat-square&labelColor=0d0d0d" />
+
+<br/><br/>
+
+<img src="art.png" width="620" alt="pink ASCII art portrait" />
+
+<br/>
+
+<img src="terminal.png" width="620" alt="terminal: whoami. Gaia Fiorillo, penetration tester and full-stack dev at We-Dev, computer science student, speaks English and Italian" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="620">
+
+Penetration tester and full-stack developer at We-Dev, studying Computer Science.<br/><br/>
+I work mainly in Linux environments, with a focus on secure system design, cloud applications and modern development practices.<br/><br/>
+Before security I worked in games, animation and VFX.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/%E2%9A%A1_fun_fact-I_have_developed_several_video_games-ff4fa3?style=for-the-badge&labelColor=0d0d0d" />
+
+<br/><br/>
+
+<img src="divider.png" width="360" alt="" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&center=true&vCenter=true&width=700&height=50&repeat=false&lines=PLAYER+STATS" alt="PLAYER STATS" />
+
+<br/>
+
+<img src="hud.png" width="620" alt="player stats: pentesting, web dev and Linux at level 9, game dev level 8, embedded and cloud level 7" />
+
+<br/><br/>
+
+<img src="divider.png" width="360" alt="" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&center=true&vCenter=true&width=700&height=50&repeat=false&lines=WHAT+I+AM+INTO" alt="WHAT I AM INTO" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="200"><h3>⚔️</h3><b>Offensive Security</b><br/><sub>web application penetration testing</sub></td>
+<td align="center" width="200"><h3>🛡️</h3><b>Secure Design</b><br/><sub>Linux environments, cloud apps, modern dev practices</sub></td>
+<td align="center" width="200"><h3>🧬</h3><b>Open Source</b><br/><sub>building tools other people can actually use</sub></td>
+</tr>
+<tr>
+<td align="center" width="200"><h3>🔌</h3><b>Embedded</b><br/><sub>Arduino and Raspberry Pi projects</sub></td>
+<td align="center" width="200"><h3>🎮</h3><b>Games</b><br/><sub>several games developed</sub></td>
+<td align="center" width="200"><h3>🤝</h3><b>Collabs</b><br/><sub>long term development and open source security tools</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="divider.png" width="360" alt="" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&center=true&vCenter=true&width=700&height=50&repeat=false&lines=SKILL+TREE" alt="SKILL TREE" />
+
+<br/><br/>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,java,py,js,ts,php,swift,bash,powershell,lua&theme=dark" alt="languages" />
+
+**Web and Backend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind,jquery,wordpress,mongodb&theme=dark" alt="web" />
+
+**Cloud, Infra and Tooling**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,azure,aws,dotnet&theme=dark" alt="infra" />
+
+**Games, Creative and Hardware**
+
+<img src="https://skillicons.dev/icons?i=unity,blender,ps,figma,flutter,arduino,raspberrypi&theme=dark" alt="creative" />
+
+**Inventory: Offensive Security Toolkit**
+
+<img src="https://img.shields.io/badge/Kali_Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff4fa3" />
+<img src="https://img.shields.io/badge/Burp_Suite-0d0d0d?style=for-the-badge&logo=burpsuite&logoColor=ff4fa3" />
+<img src="https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logoColor=ff4fa3" />
+<img src="https://img.shields.io/badge/Wireshark-0d0d0d?style=for-the-badge&logo=wireshark&logoColor=ff4fa3" />
+<img src="https://img.shields.io/badge/Metasploit-0d0d0d?style=for-the-badge&logo=metasploit&logoColor=ff4fa3" />
+<img src="https://img.shields.io/badge/OWASP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=ff4fa3" />
+
+<br/><br/>
+
+<img src="divider.png" width="360" alt="" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&center=true&vCenter=true&width=700&height=50&repeat=false&lines=STATS" alt="STATS" />
+
+<br/><br/>
+
+<a href="https://github.com/gaiafiorillo?tab=followers"><img src="https://img.shields.io/github/followers/gaiafiorillo?style=for-the-badge&logo=github&logoColor=ff4fa3&labelColor=0d0d0d&color=ff4fa3" alt="followers" /></a>
+<img src="https://img.shields.io/badge/open_to-collabs-ff4fa3?style=for-the-badge&labelColor=0d0d0d" alt="open to collabs" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=gaiafiorillo&background=0D0D0D&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FFFFFF&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=333333&border=FF4FA3" alt="streak" />
+
+<br/><br/>
+
+<img src="divider.png" width="360" alt="" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&center=true&vCenter=true&width=700&height=50&repeat=false&lines=CONNECT" alt="CONNECT" />
+
+<br/><br/>
+
 <a href="https://github.com/gaiafiorillo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-0d0d0d?style=for-the-badge&logo=github&logoColor=ff4fa3" alt="github" />
 </a>
 <a href="https://www.linkedin.com/in/gaia-fiorillo-611884279/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff4fa3" alt="linkedin" />
 </a>
 <a href="https://stackoverflow.com/users/19377719/gaia" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<img src="https://img.shields.io/badge/stackoverflow-0d0d0d?style=for-the-badge&logo=stackoverflow&logoColor=ff4fa3" alt="stackoverflow" />
+</a>
+<a href="mailto:gaiafiorillo06@gmail.com">
+<img src="https://img.shields.io/badge/email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff4fa3" alt="email" />
+</a>
+<a href="https://www.buymeacoffee.com/gaiaf" target="_blank">
+<img src="https://img.shields.io/badge/buy_me_a_coffee-0d0d0d?style=for-the-badge&logo=buymeacoffee&logoColor=ff4fa3" alt="buy me a coffee" />
+</a>
 
-<br/>  
+<br/><br/>
 
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠴⣠⡀⡀⠀
+⠀⢀⡔⠲⢄⡠⠖⠢⡀⠀⠈⠠⣖⠄
+⠀⠘⢇⠀⠀⠀⠀⡠⠃⠀⠀⠀⠀⠀
+⠀⠀⠈⠙⢄⡠⢋⣁⡀⠀⣀⣀⠀⠀
+⢘⡀⠀⠀⠀⠀⡏⠀⠈⠚⠁⠀⡏⠀
+⠈⠚⡀⢄⡀⠀⠘⠦⣀⢀⣠⠔⠁⠀
+⠀⠀⠀⠑⠊⠀⠀⠀⠀⠑⠁⠀⠀⠀
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaiafiorillo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+```
 
-<br/>  
+<img src="https://komarev.com/ghpvc/?username=gaiafiorillo&style=flat-square&color=ff4fa3&label=PROFILE+VIEWS" alt="views" />
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=gaiafiorillo&&style=flat-square" align="center" />
-</div>  
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fa3,50:3a1230,100:0d0d0d&height=120&section=footer&animation=twinkling" alt="footer" />
 
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/gaiaf" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+</div>
