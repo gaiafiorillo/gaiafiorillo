@@ -2,7 +2,7 @@
 
 <img src="banner.gif" width="100%" alt="Gaia Fiorillo, pentester and full-stack dev" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=FF4FA3&center=true&vCenter=true&width=800&height=40&lines=penetration+tester;full-stack+developer;secure+system+design;cs+student" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=FF4FA3&background=0D0D0D&center=true&vCenter=true&width=800&height=40&lines=penetration+tester;full-stack+developer;secure+system+design;cs+student" alt="typing" />
 
 <br/>
 
@@ -32,17 +32,7 @@
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="620">
-
-Penetration tester and full-stack developer at We-Dev, studying Computer Science.<br/><br/>
-I work mainly in Linux environments, with a focus on secure system design, cloud applications and modern development practices.<br/><br/>
-Before security I worked in games, animation and VFX.
-
-</td>
-</tr>
-</table>
+<img src="bio.png" width="620" alt="Penetration tester and full-stack developer at We-Dev, studying Computer Science. Works mainly in Linux with a focus on secure system design, cloud applications and modern development practices. Background in games, animation and VFX." />
 
 <br/>
 
@@ -54,7 +44,7 @@ Before security I worked in games, animation and VFX.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&center=true&vCenter=true&width=700&height=50&repeat=false&lines=PLAYER+STATS" alt="PLAYER STATS" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&background=0D0D0D&center=true&vCenter=true&width=420&height=50&repeat=false&lines=PLAYER+STATS" alt="PLAYER STATS" />
 
 <br/>
 
@@ -66,22 +56,11 @@ Before security I worked in games, animation and VFX.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&center=true&vCenter=true&width=700&height=50&repeat=false&lines=WHAT+I+AM+INTO" alt="WHAT I AM INTO" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&background=0D0D0D&center=true&vCenter=true&width=420&height=50&repeat=false&lines=WHAT+I+AM+INTO" alt="WHAT I AM INTO" />
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="200"><h3>⚔️</h3><b>Offensive Security</b><br/><sub>web application penetration testing</sub></td>
-<td align="center" width="200"><h3>🛡️</h3><b>Secure Design</b><br/><sub>Linux environments, cloud apps, modern dev practices</sub></td>
-<td align="center" width="200"><h3>🧬</h3><b>Open Source</b><br/><sub>building tools other people can actually use</sub></td>
-</tr>
-<tr>
-<td align="center" width="200"><h3>🔌</h3><b>Embedded</b><br/><sub>Arduino and Raspberry Pi projects</sub></td>
-<td align="center" width="200"><h3>🎮</h3><b>Games</b><br/><sub>several games developed</sub></td>
-<td align="center" width="200"><h3>🤝</h3><b>Collabs</b><br/><sub>long term development and open source security tools</sub></td>
-</tr>
-</table>
+<img src="interests.png" width="620" alt="Interests: offensive security, secure design, open source, embedded, games, collaborations" />
 
 <br/>
 
@@ -89,27 +68,27 @@ Before security I worked in games, animation and VFX.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&center=true&vCenter=true&width=700&height=50&repeat=false&lines=SKILL+TREE" alt="SKILL TREE" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&background=0D0D0D&center=true&vCenter=true&width=420&height=50&repeat=false&lines=SKILL+TREE" alt="SKILL TREE" />
 
 <br/><br/>
 
-**Languages**
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1800&pause=500&color=FF4FA3&background=0D0D0D&center=true&vCenter=true&width=420&height=32&repeat=false&lines=LANGUAGES" alt="LANGUAGES" />
 
 <img src="https://skillicons.dev/icons?i=cs,java,py,js,ts,php,swift,bash,powershell,lua&theme=dark" alt="languages" />
 
-**Web and Backend**
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1800&pause=500&color=FF4FA3&background=0D0D0D&center=true&vCenter=true&width=420&height=32&repeat=false&lines=WEB+AND+BACKEND" alt="WEB AND BACKEND" />
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind,jquery,wordpress,mongodb&theme=dark" alt="web" />
 
-**Cloud, Infra and Tooling**
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1800&pause=500&color=FF4FA3&background=0D0D0D&center=true&vCenter=true&width=420&height=32&repeat=false&lines=CLOUD+%2F+INFRA+%2F+TOOLING" alt="CLOUD / INFRA / TOOLING" />
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git,azure,aws,dotnet&theme=dark" alt="infra" />
 
-**Games, Creative and Hardware**
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1800&pause=500&color=FF4FA3&background=0D0D0D&center=true&vCenter=true&width=420&height=32&repeat=false&lines=GAMES+%2F+CREATIVE+%2F+HARDWARE" alt="GAMES / CREATIVE / HARDWARE" />
 
 <img src="https://skillicons.dev/icons?i=unity,blender,ps,figma,flutter,arduino,raspberrypi&theme=dark" alt="creative" />
 
-**Inventory: Offensive Security Toolkit**
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1800&pause=500&color=FF4FA3&background=0D0D0D&center=true&vCenter=true&width=420&height=32&repeat=false&lines=INVENTORY%3A+SECURITY+TOOLKIT" alt="INVENTORY: SECURITY TOOLKIT" />
 
 <img src="https://img.shields.io/badge/Kali_Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff4fa3" />
 <img src="https://img.shields.io/badge/Burp_Suite-0d0d0d?style=for-the-badge&logo=burpsuite&logoColor=ff4fa3" />
@@ -124,7 +103,7 @@ Before security I worked in games, animation and VFX.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&center=true&vCenter=true&width=700&height=50&repeat=false&lines=STATS" alt="STATS" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&background=0D0D0D&center=true&vCenter=true&width=420&height=50&repeat=false&lines=STATS" alt="STATS" />
 
 <br/><br/>
 
@@ -141,7 +120,7 @@ Before security I worked in games, animation and VFX.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&center=true&vCenter=true&width=700&height=50&repeat=false&lines=CONNECT" alt="CONNECT" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=800&color=FF4FA3&background=0D0D0D&center=true&vCenter=true&width=420&height=50&repeat=false&lines=CONNECT" alt="CONNECT" />
 
 <br/><br/>
 
