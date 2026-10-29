@@ -112,7 +112,7 @@
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/ff4fa3/gaiafiorillo" width="720" alt="GitHub contribution graph" />
+<img src="https://raw.githubusercontent.com/gaiafiorillo/gaiafiorillo/output/snake.svg" width="720" alt="pink snake eating my GitHub contribution graph" />
 
 <br/><br/>
 
